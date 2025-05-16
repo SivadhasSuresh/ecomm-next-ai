@@ -1,0 +1,532 @@
+{
+  "homepage": {
+    "desktop": {
+      "fileKey": "5ZuOj2KtqCU0jxN7cOY5z7",
+      "nodeId": "20:2",
+      "metadata": {
+        "name": "E-commerce Website Template (Freebie) (Community)",
+        "lastModified": "2025-05-13T11:03:11Z",
+        "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/7cb43add-b43a-42cc-8028-99be7becfa8b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCWCRA4SV3%2F20250511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250511T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f51bcbc96a656aee6747cc03aba878d83a64a434f0222f21e7f0ed9555fd37d4"
+      },
+      "nodes": [
+        {
+          "id": "20:2",
+          "name": "Homepage",
+          "type": "FRAME",
+          "fills": "fill_3L2W7Q",
+          "layout": "layout_AGP5AW",
+          "children": [
+            {
+              "id": "208:36",
+              "name": "Group 16",
+              "type": "GROUP",
+              "layout": "layout_AGP5AW",
+              "children": [
+                {
+                  "id": "22:352",
+                  "name": "Rectangle 2",
+                  "type": "RECTANGLE",
+                  "fills": "fill_AIY7YE",
+                  "layout": "layout_AGP5AW"
+                }
+              ]
+            },
+            {
+              "id": "22:358",
+              "name": "Vector",
+              "type": "IMAGE-SVG",
+              "fills": "fill_B7B0Y6",
+              "layout": "layout_AGP5AW"
+            },
+            {
+              "id": "22:359",
+              "name": "Vector",
+              "type": "IMAGE-SVG",
+              "fills": "fill_B7B0Y6",
+              "layout": "layout_AGP5AW"
+            },
+            {
+              "id": "20:4",
+              "name": "Frame 1",
+              "type": "FRAME",
+              "fills": "fill_B7B0Y6",
+              "layout": "layout_AGP5AW",
+              "children": [
+                {
+                  "id": "20:5",
+                  "name": "Sign up and get 20% off to your first order. Sign Up Now",
+                  "type": "TEXT",
+                  "textStyle": "style_BQ3KFK",
+                  "fills": "fill_3L2W7Q",
+                  "layout": "layout_AGP5AW",
+                  "text": "Sign up and get 20% off to your first order. Sign Up Now"
+                },
+                {
+                  "id": "20:6",
+                  "name": "Frame",
+                  "type": "FRAME",
+                  "fills": "fill_3L2W7Q",
+                  "layout": "layout_AGP5AW",
+                  "children": [
+                    {
+                      "id": "20:7",
+                      "name": "Vector",
+                      "type": "IMAGE-SVG",
+                      "fills": "fill_3L2W7Q",
+                      "layout": "layout_AGP5AW"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "20:8",
+              "name": "Frame 6",
+              "type": "FRAME",
+              "layout": "layout_5N43A3",
+              "children": [
+                {
+                  "id": "20:9",
+                  "name": "SHOP.CO",
+                  "type": "TEXT",
+                  "textStyle": "style_2ES58L",
+                  "fills": "fill_B7B0Y6",
+                  "layout": "layout_S3H94W",
+                  "text": "SHOP.CO"
+                },
+                {
+                  "id": "20:10",
+                  "name": "Frame 2",
+                  "type": "FRAME",
+                  "layout": "layout_Q4MS7O",
+                  "children": [
+                    {
+                      "id": "20:11",
+                      "name": "Frame 4",
+                      "type": "FRAME",
+                      "layout": "layout_XYHSZR",
+                      "children": [
+                        {
+                          "id": "20:12",
+                          "name": "Shop",
+                          "type": "TEXT",
+                          "textStyle": "style_9K9JTP",
+                          "fills": "fill_B7B0Y6",
+                          "layout": "layout_S3H94W",
+                          "text": "Shop"
+                        },
+                        {
+                          "id": "20:13",
+                          "name": "Frame",
+                          "type": "FRAME",
+                          "fills": "fill_3L2W7Q",
+                          "layout": "layout_ZF5KPZ",
+                          "children": [
+                            {
+                              "id": "20:14",
+                              "name": "Vector",
+                              "type": "IMAGE-SVG",
+                              "fills": "fill_B7B0Y6",
+                              "layout": "layout_AGP5AW"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "20:15",
+                      "name": "On Sale",
+                      "type": "TEXT",
+                      "textStyle": "style_9K9JTP",
+                      "fills": "fill_B7B0Y6",
+                      "layout": "layout_S3H94W",
+                      "text": "On Sale"
+                    },
+                    {
+                      "id": "20:16",
+                      "name": "New Arrivals",
+                      "type": "TEXT",
+                      "textStyle": "style_9K9JTP",
+                      "fills": "fill_B7B0Y6",
+                      "layout": "layout_S3H94W",
+                      "text": "New Arrivals"
+                    },
+                    {
+                      "id": "20:17",
+                      "name": "Brands",
+                      "type": "TEXT",
+                      "textStyle": "style_9K9JTP",
+                      "fills": "fill_B7B0Y6",
+                      "layout": "layout_S3H94W",
+                      "text": "Brands"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "globalVars": {
+        "styles": {
+          "fill_3L2W7Q": [
+            "#FFFFFF"
+          ],
+          "layout_AGP5AW": {
+            "mode": "none",
+            "sizing": {}
+          },
+          "fill_AIY7YE": [
+            "#F2F0F1"
+          ],
+          "fill_B7B0Y6": [
+            "#000000"
+          ],
+          "style_BQ3KFK": {
+            "fontFamily": "Satoshi",
+            "fontWeight": 500,
+            "fontSize": 14,
+            "lineHeight": "1.3499999727521623em",
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP"
+          },
+          "layout_5N43A3": {
+            "mode": "row",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "gap": 40,
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "dimensions": {
+              "width": 1240
+            }
+          },
+          "style_2ES58L": {
+            "fontFamily": "Integral CF",
+            "fontWeight": 700,
+            "fontSize": 32,
+            "lineHeight": "1.2000000476837158em",
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "CENTER"
+          },
+          "layout_S3H94W": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          },
+          "layout_Q4MS7O": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": 24,
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          },
+          "layout_XYHSZR": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": 4,
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          },
+          "style_9K9JTP": {
+            "fontFamily": "Satoshi",
+            "fontWeight": 400,
+            "fontSize": 16,
+            "lineHeight": "1.350000023841858em",
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP"
+          },
+          "layout_ZF5KPZ": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            }
+          }
+        }
+      },
+      "timestamp": 1715405428000
+    },
+    "mobile": {
+      "fileKey": "5ZuOj2KtqCU0jxN7cOY5z7",
+      "nodeId": "35:740",
+      "metadata": {
+        "name": "E-commerce Website Template (Freebie) (Community)",
+        "lastModified": "2025-05-13T11:03:11Z",
+        "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/7cb43add-b43a-42cc-8028-99be7becfa8b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCWCRA4SV3%2F20250511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250511T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f51bcbc96a656aee6747cc03aba878d83a64a434f0222f21e7f0ed9555fd37d4"
+      },
+      "nodes": [
+        {
+          "id": "35:740",
+          "name": "Homepage",
+          "type": "FRAME",
+          "fills": "fill_365K9X",
+          "layout": "layout_5IURI0",
+          "children": [
+            {
+              "id": "35:1006",
+              "name": "Rectangle 1",
+              "type": "RECTANGLE",
+              "fills": "fill_3RKO2O",
+              "layout": "layout_5IURI0"
+            },
+            {
+              "id": "35:742",
+              "name": "Frame 1",
+              "type": "FRAME",
+              "fills": "fill_FINKL8",
+              "layout": "layout_RZ3MQR",
+              "children": [
+                {
+                  "id": "35:743",
+                  "name": "Sign up and get 20% off to your first order. Sign Up Now",
+                  "type": "TEXT",
+                  "textStyle": "style_071754",
+                  "fills": "fill_365K9X",
+                  "layout": "layout_C5PJG8",
+                  "text": "Sign up and get 20% off to your first order. Sign Up Now"
+                }
+              ]
+            },
+            {
+              "id": "35:746",
+              "name": "SHOP.CO",
+              "type": "TEXT",
+              "textStyle": "style_QRZSV4",
+              "fills": "fill_FINKL8",
+              "layout": "layout_5IURI0",
+              "text": "SHOP.CO"
+            },
+            {
+              "id": "35:747",
+              "name": "Frame",
+              "type": "FRAME",
+              "fills": "fill_365K9X",
+              "layout": "layout_5IURI0",
+              "children": [
+                {
+                  "id": "35:748",
+                  "name": "Vector",
+                  "type": "IMAGE-SVG",
+                  "fills": "fill_FINKL8",
+                  "layout": "layout_5IURI0"
+                }
+              ]
+            },
+            {
+              "id": "35:749",
+              "name": "Frame 5",
+              "type": "FRAME",
+              "layout": "layout_D05FDZ",
+              "children": [
+                {
+                  "id": "35:754",
+                  "name": "Frame",
+                  "type": "FRAME",
+                  "fills": "fill_365K9X",
+                  "layout": "layout_BJ6K6N",
+                  "children": [
+                    {
+                      "id": "35:755",
+                      "name": "Vector",
+                      "type": "IMAGE-SVG",
+                      "fills": "fill_FINKL8",
+                      "layout": "layout_5IURI0"
+                    }
+                  ]
+                },
+                {
+                  "id": "35:750",
+                  "name": "Frame",
+                  "type": "FRAME",
+                  "fills": "fill_365K9X",
+                  "layout": "layout_BJ6K6N",
+                  "children": [
+                    {
+                      "id": "35:751",
+                      "name": "Vector",
+                      "type": "IMAGE-SVG",
+                      "fills": "fill_FINKL8",
+                      "layout": "layout_5IURI0"
+                    }
+                  ]
+                },
+                {
+                  "id": "35:752",
+                  "name": "Frame",
+                  "type": "FRAME",
+                  "fills": "fill_365K9X",
+                  "layout": "layout_BJ6K6N",
+                  "children": [
+                    {
+                      "id": "35:753",
+                      "name": "Vector",
+                      "type": "IMAGE-SVG",
+                      "fills": "fill_FINKL8",
+                      "layout": "layout_5IURI0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "globalVars": {
+        "styles": {
+          "fill_365K9X": [
+            "#FFFFFF"
+          ],
+          "layout_5IURI0": {
+            "mode": "none",
+            "sizing": {}
+          },
+          "fill_3RKO2O": [
+            "#F0F0F0"
+          ],
+          "fill_FINKL8": [
+            "#000000"
+          ],
+          "layout_RZ3MQR": {
+            "mode": "row",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "gap": 10,
+            "padding": "9px 544px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "dimensions": {
+              "width": 390
+            }
+          },
+          "style_071754": {
+            "fontFamily": "Satoshi",
+            "fontWeight": 500,
+            "fontSize": 12,
+            "lineHeight": "1.3500000635782878em",
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP"
+          },
+          "layout_C5PJG8": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          },
+          "style_QRZSV4": {
+            "fontFamily": "Integral CF",
+            "fontWeight": 700,
+            "fontSize": 25.19999885559082,
+            "lineHeight": "1.2000000454130648em",
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "CENTER"
+          },
+          "layout_D05FDZ": {
+            "mode": "row",
+            "gap": 12,
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          },
+          "layout_BJ6K6N": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            }
+          }
+        }
+      },
+      "timestamp": 1715405428000
+    },
+    "assets": {
+      "fileKey": "5ZuOj2KtqCU0jxN7cOY5z7",
+      "timestamp": 1715529520000,
+      "images": [
+        {
+          "nodeId": "22:358",
+          "name": "hamburger-icon",
+          "fileName": "hamburger-icon.svg",
+          "type": "SVG",
+          "url": "/public/images/homepage/hamburger-icon.svg",
+          "localPath": "/images/homepage/hamburger-icon.svg"
+        },
+        {
+          "nodeId": "22:359",
+          "name": "search-icon",
+          "fileName": "search-icon.svg",
+          "type": "SVG",
+          "url": "/public/images/homepage/search-icon.svg",
+          "localPath": "/images/homepage/search-icon.svg"
+        },
+        {
+          "nodeId": "20:7",
+          "name": "close-icon",
+          "fileName": "close-icon.svg",
+          "type": "SVG",
+          "url": "/public/images/homepage/close-icon.svg", 
+          "localPath": "/images/homepage/close-icon.svg"
+        },
+        {
+          "nodeId": "20:14",
+          "name": "chevron-down",
+          "fileName": "chevron-down.svg",
+          "type": "SVG",
+          "url": "/public/images/homepage/chevron-down.svg",
+          "localPath": "/images/homepage/chevron-down.svg"
+        },
+        {
+          "nodeId": "35:748",
+          "name": "hamburger-mobile",
+          "fileName": "hamburger-mobile.svg",
+          "type": "SVG",
+          "url": "/public/images/homepage/hamburger-mobile.svg",
+          "localPath": "/images/homepage/hamburger-mobile.svg"
+        },
+        {
+          "nodeId": "35:755",
+          "name": "search-mobile",
+          "fileName": "search-mobile.svg",
+          "type": "SVG",
+          "url": "/public/images/homepage/search-mobile.svg",
+          "localPath": "/images/homepage/search-mobile.svg"
+        },
+        {
+          "nodeId": "35:751",
+          "name": "user-mobile",
+          "fileName": "user-mobile.svg",
+          "type": "SVG",
+          "url": "/public/images/homepage/user-mobile.svg",
+          "localPath": "/images/homepage/user-mobile.svg"
+        },
+        {
+          "nodeId": "35:753",
+          "name": "cart-mobile",
+          "fileName": "cart-mobile.svg",
+          "type": "SVG",
+          "url": "/public/images/homepage/cart-mobile.svg",
+          "localPath": "/images/homepage/cart-mobile.svg"
+        }
+      ],
+      "response": {
+        "status": "success",
+        "message": "Images downloaded successfully",
+        "totalCount": 8,
+        "successCount": 8,
+        "failureCount": 0
+      }
+    }
+  }
+} 
