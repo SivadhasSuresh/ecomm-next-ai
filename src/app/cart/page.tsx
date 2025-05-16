@@ -5,10 +5,10 @@ import Image from "next/image";
 import CartList from "@/components/cart/CartList";
 import OrderSummary from "@/components/cart/OrderSummary";
 import PaymentMethods from "@/components/cart/PaymentMethods";
-import { useCart } from "@/context/CartContext";
-
+// import { useCart } from "@/context/CartContext";
+// 
 export default function CartPage() {
-  const { items } = useCart();
+  // const { items } = useCart();
 
   return (
     <main className="container max-w-screen-2xl mx-auto px-4 md:px-16 py-8 md:py-12">
